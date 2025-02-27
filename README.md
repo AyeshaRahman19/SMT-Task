@@ -1,5 +1,9 @@
 # SMT-Task
 There is total 5 steps in the task. 
+# Here the Regression analysis is done in demo 1 along with EDA and text processiing.
+# ANN is done in demo 2
+# GRU is done in demo 3
+# BERT is done in demo 6 files ( which requires huge time to do so sddition tasks must be done to reduce the time complexity)  
 # Sentence Contradiction Classification
 
 ## Project Overview
